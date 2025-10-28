@@ -51,8 +51,9 @@
       </tr>
     </table>
   </section>
-
-
-
-  
+<img src="Barista skill.jpg"  width="200">
+    <img src="Programming.jpg" width="200" height="135">
+    <img src="Choir.jpg" width="200" height="135">
+    <img src="Volunteering.jpg" width="200" height="135">
+</body>  
 </html>
