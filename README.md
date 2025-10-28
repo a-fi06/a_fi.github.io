@@ -51,11 +51,8 @@
       </tr>
     </table>
   </section>
-</body>  
-</html>
 
-<css>
-body {
+  body {
   font-family: Arial;
   color: #000000;
   margin: 20px;
@@ -69,4 +66,6 @@ header {
   text-align: center;
   padding: 20px;
 }
-</css>
+</body>  
+</html>
+
