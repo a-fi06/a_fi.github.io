@@ -51,9 +51,22 @@
       </tr>
     </table>
   </section>
-<img src="Barista skill.jpg"  width="200">
-    <img src="Programming.jpg" width="200" height="135">
-    <img src="Choir.jpg" width="200" height="135">
-    <img src="Volunteering.jpg" width="200" height="135">
 </body>  
 </html>
+
+<css>
+body {
+  font-family: Arial;
+  color: #000000;
+  margin: 20px;
+  background: linear-gradient(#ff9a9e, #fad0c4, #fbc2eb, #a1c4fd, #c2e9fb);
+}
+img {
+  border: 2px solid #f5f5f5;
+  border-radius: 10px;
+}
+header {
+  text-align: center;
+  padding: 20px;
+}
+</css>
