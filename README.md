@@ -51,6 +51,7 @@
       </tr>
     </table>
   </section>
+  </body>  
 <style>
   body {
   font-family: Arial;
@@ -66,7 +67,6 @@ header {
   text-align: center;
   padding: 20px;
 }
-</style>
-</body>  
+</style> 
 </html>
 
