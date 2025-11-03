@@ -1,10 +1,11 @@
 # a_fi.github.io
+<!DOCTYPE HTML>
 <html lang="en">
-<head>
-  <meta charset="UTF-8"> 
-  <title>Alfi's Personal Page</title>
-  <link rel="stylesheet" href="style1.css" href="style2.css">
-</head>
+    <head>
+      <meta charset="UTF-8"> 
+      <title>Alfi's Personal Page</title>
+      <link rel="stylesheet" href="style1.css" href="style2.css">
+    </head>
 
 <body>
   <header>
@@ -52,21 +53,5 @@
     </table>
   </section>
   </body>  
-<style>
-  body {
-  font-family: Arial;
-  color: #000000;
-  margin: 20px;
-  background: linear-gradient(#ff9a9e, #fad0c4, #fbc2eb, #a1c4fd, #c2e9fb);
-}
-img {
-  border: 2px solid #f5f5f5;
-  border-radius: 10px;
-}
-header {
-  text-align: center;
-  padding: 20px;
-}
-</style> 
 </html>
 
